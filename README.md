@@ -7,12 +7,12 @@ You have the option to opt in a weekly or a monthly email. :computer:
 ## General Timeline
 **Main Deadline - Dec 31, 2020**
 Above deadline is applicable for
- - Front-End for Users to Sign-In
+ - [ ]Front-End for Users to Sign-In
    - Comprising Feedback Reviews, About Segment, SEO Management
- - Content Creation
- - Back-End to Store and Process New Users
- - Cloud function(s) to Handle the Email Sending
- - Database Deployment Over Cloud  
+ - [ ]Content Creation
+ - [ ]Back-End to Store and Process New Users
+ - [ ]Cloud function(s) to Handle the Email Sending
+ - [ ]Database Deployment Over Cloud  
  ## How to contribute
 
 **You could open an issue in this repo to start discussions or to brainstorm ideas**, with the goal of creating a pull request with the implementation.
