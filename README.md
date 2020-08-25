@@ -6,3 +6,6 @@ Subscribe at our website to get a email containing popular interview questions a
 You have the option to opt in a weekly or a monthly email. :computer:  
 ## General Timeline
 > Main Deadline - Dec 31, 2020
+- Above deadline is applicable for
+ - Front-End for new users to Sign-In
+   - Comprising feedback reviews, about segment, SEO management
