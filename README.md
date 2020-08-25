@@ -5,4 +5,4 @@ Every programmer either beginner or pro has to face technical interviews to get 
 Subscribe at our website to get a email containing popular interview questions and tips from the real world.
 You have the option to opt in a weekly or a monthly email. :computer:  
 ## General Timeline
--> Main Deadline is Dec 31, 2020
+> Main Deadline - Dec 31, 2020
