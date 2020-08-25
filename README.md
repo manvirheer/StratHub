@@ -10,6 +10,6 @@ Above deadline is applicable for
  - Front-End for Users to Sign-In
    - Comprising Feedback Reviews, About Segment, SEO Management
  - Content Creation
- - Back-End to store and process new users
- - Cloud function(s) to handle the email sending
- - Database deployment over cloud
+ - Back-End to Store and Process New Users
+ - Cloud function(s) to Handle the Email Sending
+ - Database Deployment Over Cloud
